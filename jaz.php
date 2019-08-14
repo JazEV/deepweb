@@ -6,7 +6,10 @@
 	<title>Document</title>
 </head>
 <body>
-	<h1>Bienvenid@ a esta página de gatitos</h1>
+  <div class="conteiner">
+    <?php include 'menu.html' ?>
+  </div>
+	<h1 style="color: blue">Bienvenidos a esta página de gatitos</h1>
 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
