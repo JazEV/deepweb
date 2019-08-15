@@ -9,7 +9,6 @@
   <div class="container">
     <?php include 'menu.html' ?>
   </div>
-	<h1 style="color: blue">Bienvenidos a esta página de gatitos</h1>
 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
@@ -31,6 +30,7 @@
     <span class="sr-only">Next</span>
   </a>
 </div>
+
   <div class="container">
     <?php include 'footer.html' ?>
   </div>
