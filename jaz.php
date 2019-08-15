@@ -6,7 +6,7 @@
 	<title>Document</title>
 </head>
 <body>
-  <div class="conteiner">
+  <div class="container">
     <?php include 'menu.html' ?>
   </div>
 	<h1 style="color: blue">Bienvenidos a esta página de gatitos</h1>
