@@ -11,6 +11,9 @@
     <title>Bye, world!</title>
   </head>
   <body>
+  <div class="container">
+    <?php include 'menu.html' ?>
+  </div>
     <h1>Hasta la vista BABY!</h1>
 
     <div class="bd-example">
@@ -53,6 +56,9 @@
     </a>
   </div>
 </div>
+  <div class="container">
+    <?php include 'footer.html' ?>
+  </div>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>

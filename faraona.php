@@ -11,17 +11,9 @@
   <title>¡La faraona!</title>
 </head>
 <body>
-  <nav class="navbar navbar-expand-lg navbar-dark bg-info" style="border-bottom-color: black">
-   <a class="navbar-brand" href="index.php">Inicio</a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-    <div class="navbar-nav">
-      <!-- Espacio para poner más opciones enla barra de menú -->
-    </div>
+  <div class="container">
+    <?php include 'menu.html' ?>
   </div>
-</nav>
   <div class="p-3 mb-2 bg-primary ">
   <div class="container">
     <h1 class="text-center">¡La faraona!</h1>

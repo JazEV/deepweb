@@ -6,6 +6,9 @@
 	<title>Document</title>
 </head>
 <body>
+  <div class="container">
+    <?php include 'menu.html' ?>
+  </div>
 	<h1>Bienvenid@ a esta página de gatitos</h1>
 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
@@ -28,6 +31,10 @@
     <span class="sr-only">Next</span>
   </a>
 </div>
+
+  <div class="container">
+    <?php include 'footer.html' ?>
+  </div>
   <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
